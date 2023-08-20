@@ -31,7 +31,7 @@
 		address: 'Houston, TX',
 		phone: '21 (356) 79783',
 		password: 'password12345',
-		image: 'src/assets/anna-valarie.jpg'
+		image: '/assets/anna-valarie.jpg'
 	}
 
 	const defaultProfileDetails: ProfileDetailsInterface = {
@@ -39,7 +39,7 @@
 		email: 'annavalerie@mail.com',
 		address: 'Houston, TX',
 		phone: '21 (356) 79783',
-		image: 'src/assets/anna-valarie.jpg'
+		image: '/assets/anna-valarie.jpg'
 	}
 
 	/** Defines the reactive updatedProfile state with default string as interface ProfileInterface
